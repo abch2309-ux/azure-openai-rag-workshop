@@ -11,7 +11,7 @@ Content-Type: application/json
 
 {
   "messages": [{
-    "content": "How to search and book rentals?",
+    "content": "How to search and book rentals? help me in the stockholm",
     "role": "user"
   }]
 }
@@ -24,7 +24,7 @@ Content-Type: application/json
 
 {
   "messages": [{
-    "content": "How to search and book rentals?",
+    "content": "How to search and book rentals in the stockholm?",
     "role": "user"
   }]
 }
